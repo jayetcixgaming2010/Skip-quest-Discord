@@ -5,7 +5,7 @@
 
 How to install the settings.json file:
 1. Use the <kbd>Win</kbd>+<kbd>R</kbd> command
-2. Type <kbd>%appdata%<kbd>
+2. Type <kbd>%appdata%</kbd>
 3. Find the discordptb folder
 4. Scroll down to find `settings.json`
 5. Replace the code in the file with:
